@@ -1,0 +1,9 @@
+@media (max-with: 744px) {
+    .burger_icon {
+        display: block;
+    }
+
+    .header_nav_bar {
+        display: none;
+    }
+}
